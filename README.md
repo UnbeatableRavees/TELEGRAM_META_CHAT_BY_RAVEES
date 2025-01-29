@@ -2,7 +2,7 @@
 # MADE BY RAVEES 
 # REMEMBER RAVEES 
 
-Meta AI Telegram Bot
+# Meta AI Telegram Bot Created By Ravees(IMANINFOSEC)
 
 This powerful Telegram bot leverages the capabilities of ChatGPT to provide insightful and accurate answers on demand. By simply providing an API token and a Telegram bot token, users can seamlessly integrate this bot into their Telegram environment. Once set up, it can respond to inquiries, assist with tasks, and offer relevant information, all powered by advanced AI language models. Whether you're looking for a quick solution, engaging in a conversation, or exploring various topics, this bot is designed to provide intelligent and coherent responses in real-time.
 
